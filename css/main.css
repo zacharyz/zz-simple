@@ -325,6 +325,25 @@ nav a:hover {
       padding: 0 5px;
     }
 }
+@media only screen and (max-width: 600px) {
+
+    .name {
+      font-size: 24px;
+      line-height: 1.05;
+    }
+    .byline {
+      font-size: 11px;
+    }
+    .author-avatar, .author-avatar img {
+        width: 60px;
+        height: 60px;
+        margin: 0 auto 10px auto;
+    }
+    .social-links > li a{
+      padding: 0 5px;
+    }
+}
+
 
 @media only screen and (min-width: 768px) {
 
