@@ -321,6 +321,9 @@ nav a:hover {
         height: 60px;
         margin: 0 auto 10px auto;
     }
+    .social-links > li a{
+      padding: 0 5px;
+    }
 }
 
 @media only screen and (min-width: 768px) {
