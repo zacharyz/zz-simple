@@ -263,6 +263,7 @@ nav a:hover {
   -webkit-transition: opacity .1s ease-in;
   padding: 0 10px;
   font-size: 150%;
+  color: white;
 }
 .social-links > li a:hover {
   opacity: 1;
