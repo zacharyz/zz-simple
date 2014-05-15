@@ -233,7 +233,7 @@ nav a:hover {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(48, 51, 42, 0.13);
+    background: rgba(48, 51, 42, 0.2);
 }
 .author-avatar, .author-avatar img {
     position: relative;
